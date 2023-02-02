@@ -7,3 +7,10 @@ Sum of all dices
 Make three dice.
 When you throw them to show you three random numbers.
 Аdd the sum of the numbers.
+
+`````````````
+#### Tip
+
+DO NOT WRITE CODE YOU ALREADY WRITTEN
+
+`````````````
